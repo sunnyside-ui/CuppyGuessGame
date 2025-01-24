@@ -32,12 +32,12 @@ In **The Cuppy Guess Game**, you'll start off by entering your player name. with
 
 #**How to Play**:
 
- -Enter your name
- -Choose a difficulty levey (Easy, Medium, Hard)
- -Guess the correct cup (1, 2, 3)
-  - Type Exit to leave the game anytime.
- -Earn points for each correct guess and take life damage for each wrong guess.
- -Reach the target score for your chosen difficulty to win the game!
+- Enter your name
+- Choose a difficulty levey (Easy, Medium, Hard)
+- Guess the correct cup (1, 2, 3)
+- Type Exit to leave the game anytime.
+- Earn points for each correct guess and take life damage for each wrong guess.
+- Reach the target score for your chosen difficulty to win the game!
 
 ---
 # Creator:
